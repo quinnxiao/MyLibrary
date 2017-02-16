@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+
+    <string name="app_ok">Ok</string>
+    <string name="app_cancel">Cancel</string>
+    <string name="app_loading">Loading...</string>
+</resources>
