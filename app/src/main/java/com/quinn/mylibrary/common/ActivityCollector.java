@@ -1,6 +1,7 @@
 package com.quinn.mylibrary.common;
 
 import android.app.Activity;
+import android.os.Process;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,5 +30,6 @@ public class ActivityCollector {
                 activity.finish();
             }
         }
+        Process.killProcess(Process.myPid());
     }
 }
