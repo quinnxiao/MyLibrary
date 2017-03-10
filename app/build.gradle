@@ -20,4 +20,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.0.1'
     compile 'com.android.support:recyclerview-v7:25.0.1'
     compile 'com.zhy:autolayout:+'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha7'
 }
